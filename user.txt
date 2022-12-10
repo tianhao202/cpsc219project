@@ -1,0 +1,2 @@
+id:18429,username:123,password:123,name:zhangsan,age:22,gender:M,cardnumber:123,cardpassword:123,balance:1300,
+id:48062,username:234,password:234,name:lisi,age:22,gender:M,cardnumber:234,cardpassword:234,balance:1411,
