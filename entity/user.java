@@ -15,7 +15,7 @@ public class user implements java.io.Serializable {
 	public String getUsername() {
 		return this.username;
 	}
-	public void setName(String username) {
+	public void setUserame(String username) {
 		this.username = username;
 	}
 	private String password;
